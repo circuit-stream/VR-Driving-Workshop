@@ -2268,7 +2268,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1.098104, z: 4.2352185}
+  m_Size: {x: 1.72599, y: 1.098104, z: 4.2352185}
   m_Center: {x: 0, y: 0.70457816, z: 0.005831003}
 --- !u!54 &572827861
 Rigidbody:
@@ -2433,7 +2433,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &593255414
+--- !u!64 &593255417
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2465,7 +2465,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &612303113
+--- !u!64 &612303116
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3102,7 +3102,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &802098021
+--- !u!64 &802098024
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3243,7 +3243,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &832743895
+--- !u!64 &832743898
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3731,7 +3731,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &1007977899
+--- !u!64 &1007977902
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4196,7 +4196,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &1183016920
+--- !u!64 &1183016923
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5643,7 +5643,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &1556871350
+--- !u!64 &1556871353
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6179,7 +6179,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1726754208}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 4569fad3f7a2d4f8f90ef14be0049af4, type: 3}
@@ -6275,7 +6275,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1726754208}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e324d7c95e6d5478e8668a37367d92c3, type: 3}
   m_Name: 
@@ -6443,7 +6443,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 16460472}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &1759896533
+--- !u!64 &1759896536
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
